@@ -1,7 +1,7 @@
-#Sales Dashboard (2020–2022) – Power BI
+### Sales Dashboard (2020–2022) – Power BI
 This project showcases an interactive Sales Dashboard developed in Power BI to analyze company performance across total sales, costs, profits, transactions, and product-level trends over the years 2020 to 2022.
 
-##📊 Key Features
+## 📊 Key Features
 Total Sales: 99M
 
 Total Cost: 76M
@@ -12,7 +12,7 @@ Total Transactions: 5095
 
 Total Quantity Sold: 13K
 
-##Visual Insights:
+## Visual Insights:
 
 Quantity sold by product category
 
@@ -22,14 +22,14 @@ State-wise sales distribution on map
 
 Supervisor-wise breakdown for team performance
 
-##🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 Power BI (Data visualization and dashboard creation)
 
 DAX (for calculated columns and measures)
 
 Excel/CSV (used as data source)
 
-##🔍 Project Insights
+## 🔍 Project Insights
 Total Sales reached 99M, with a Total Profit of 23M, indicating a healthy profit margin.
 
 5095 transactions were recorded over the 3-year span, highlighting a consistent customer base.
@@ -42,7 +42,7 @@ Sales were distributed across various states, providing a geographic view of mar
 
 A team of 6 supervisors contributed to overall sales operations, suggesting a distributed responsibility model.
 
-##✅ Conclusion
+## ✅ Conclusion
 The Sales Dashboard provides a comprehensive overview of product performance, brand contribution, and regional sales distribution from 2020 to 2022.
 
 It enables stakeholders to identify high-performing categories and brands, monitor transaction trends, and make informed decisions to drive profitability and future sales strategies.

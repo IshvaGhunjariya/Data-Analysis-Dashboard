@@ -1,4 +1,4 @@
-### Sales Dashboard (2020–2022) – Power BI
+# Sales Dashboard (2020–2022) – Power BI
 This project showcases an interactive Sales Dashboard developed in Power BI to analyze company performance across total sales, costs, profits, transactions, and product-level trends over the years 2020 to 2022.
 
 ## 📊 Key Features

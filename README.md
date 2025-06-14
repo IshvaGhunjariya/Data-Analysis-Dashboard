@@ -46,7 +46,8 @@ A team of 6 supervisors contributed to overall sales operations, suggesting a di
 -<a href="https://github.com/IshvaGhunjariya/Data-Analysis-Dashboard/blob/main/Complete_Techno_Sales_Data-2.xlsx">Sales Dashboard Dataset</a>
 
 ## Dashboard : 
--<a href="https://github.com/IshvaGhunjariya/Data-Analysis-Dashboard/blob/main/salesdb.pdf">Dashboard</a>
+-![Screenshot (147)](https://github.com/user-attachments/assets/b783f12a-f82f-4508-9bc1-e81f6333418f)
+
 
 ## ✅ Conclusion
 The Sales Dashboard provides a comprehensive overview of product performance, brand contribution, and regional sales distribution from 2020 to 2022.
